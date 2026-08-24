@@ -22,6 +22,7 @@
                     @role('Alumno')
                         <h1>Eres usuario Alumno</h1>
                     @endrole
+                    
                 </div>
             </div>
         </div>
